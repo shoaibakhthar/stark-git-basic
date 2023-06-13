@@ -11,7 +11,7 @@ move files to staging area
 4. git add. --> will add the files to staging area
 
 checking the status of the files
-5. git status
+5. --git status
 
 commiting a files
 6. git commit -m "message"
