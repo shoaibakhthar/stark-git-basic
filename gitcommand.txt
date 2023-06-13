@@ -1,0 +1,23 @@
+personal token till mar 31 2024
+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
+initialize a git repository
+1.git init
+
+connect your local file with remote repository
+2. git remote add origin "origin path" ex:https://github.com/shoak
+
+move files to staging area
+3. git add "file-path" ex: home/home.html
+4. git add. --> will add the files to staging area
+
+checking the status of the files
+5. git status
+
+commiting a files
+6. git commit -m "message"
+
+pushing code to remote repository
+7. -- git push origin master
+
+
+
